@@ -1,6 +1,7 @@
 <?php
 
 use \Psr\Cache\CacheItemPoolInterface;
+use \Psr\Cache\CacheItemInterface;
 
 /**
  * Apishka cacher pool
